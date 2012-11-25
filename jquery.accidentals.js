@@ -1,7 +1,7 @@
 /*
-
-- test inline images, text-replacement images
-
+	jQuery Accidentals
+	Copyright 2012 by Bret Pimentel http://bretpimentel.com
+	Available under MIT license. See LICENSE.txt for more information.
 */
 
 (function ($) {
