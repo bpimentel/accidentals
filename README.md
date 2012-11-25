@@ -1,6 +1,6 @@
 #jQuery Accidentals
 
-This [jQuery](https://github.com/jquery/jquery) plugin converts musical ["accidental"](http://en.wikipedia.org/wiki/Accidental_(music)) symbols typed in plain text into actual symbols:
+This [jQuery](https://github.com/jquery/jquery) plugin converts musical ["accidental"](http://en.wikipedia.org/wiki/Accidental_(music\)) symbols typed in plain text into actual symbols:
 
 `A-flat` → `A♭`
 
